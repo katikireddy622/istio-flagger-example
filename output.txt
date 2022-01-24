@@ -1,0 +1,201 @@
+
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
+It is Up !!!
+{"hostname":"appdeploy-d65f88b5-wwbtr","ip":"10.244.0.83","message":"Hello World!","version":"v1"}
+It is Up !!!
+{"hostname":"appdeploy-primary-d465bc79f-46t8j","ip":"10.244.0.82","message":"Hello World!","version":"v2"}
