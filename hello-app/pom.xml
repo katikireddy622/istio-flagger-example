@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sinch.devops</groupId>
 	<artifactId>hello-app</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hello-app</name>
 	<description>A DevOps assignment from Sinch AB</description>
 	<properties>
