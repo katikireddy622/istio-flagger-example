@@ -22,6 +22,9 @@ public class HelloWorldController {
     public static final String HOSTNAME_KEY = "hostname";
     public static final String IP_KEY = "ip";
     public static final String VERSION = "version";
+    public static final String COUNTER = "counter";
+
+    public static int counter=0;
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
     public Map<String, String> helloWorld() throws UnknownHostException {
@@ -35,7 +38,8 @@ public class HelloWorldController {
         response.put(MESSAGE_KEY, "Hello World!");
         response.put(HOSTNAME_KEY, host);
         response.put(IP_KEY, ip);
-        response.put(VERSION, "v2");
+        response.put(VERSION, "v3");
+        response.put(COUNTER,++counter+"");
         return response;
     }
 }
