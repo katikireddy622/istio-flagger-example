@@ -8,4 +8,4 @@ resources:
 - hpa.yaml
 images:
   - name: katikireddy1997/hello-app
-    newTag: 0.0.1-SNAPSHOT
+    newTag: 0.0.2-SNAPSHOT
