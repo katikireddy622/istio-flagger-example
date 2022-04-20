@@ -1,0 +1,38 @@
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImageRepository
+metadata:
+  name: helloapp
+  namespace: flux-system
+spec:
+  image: katikireddy1997/hello-app
+  interval: 1m0s
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImagePolicy
+metadata:
+  name: helloapp
+spec:
+#  imageRepositoryRef:
+#    name: nexus
+  policy:
+    alphabetical:
+      order: asc
+---
+apiVersion: image.toolkit.fluxcd.io/v1beta1
+kind: ImageUpdateAutomation
+metadata:
+  name: helloapp
+spec:
+  interval: 1m0s
+  sourceRef:
+    kind: GitRepository
+    name: helloapp
+  git:
+    commit:
+      author:
+        email: fluxcdbot@users.noreply.github.com
+        name: fluxcdbot
+      messageTemplate: '{{range .Updated.Images}}{{println .}}{{end}}'
+  update:
+    strategy: Setters
