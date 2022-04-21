@@ -20,7 +20,7 @@ metadata:
 spec:
   imageRepositoryRef:
     name: helloapp
-    namespace: helloapp
+    namespace: flux-system
   policy:
     alphabetical:
       order: dsc
