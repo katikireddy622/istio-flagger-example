@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: appdeploy
-        image: katikireddy1997/hello-app:0.0.1-SNAPSHOT
+        image: katikireddy1997/hello-app:0.0.1-SNAPSHOT # {"$imagepolicy": "flux-system:helloapp"}
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8080

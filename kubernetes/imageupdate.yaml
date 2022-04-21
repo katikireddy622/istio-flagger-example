@@ -20,7 +20,7 @@ metadata:
 spec:
   imageRepositoryRef:
     name: helloapp
-    namespace: flux-system
+    namespace: helloapp
   policy:
     alphabetical:
       order: dsc
@@ -29,16 +29,22 @@ apiVersion: image.toolkit.fluxcd.io/v1beta1
 kind: ImageUpdateAutomation
 metadata:
   name: helloapp
+  namespace: flux-system
 spec:
   interval: 1m0s
   sourceRef:
     kind: GitRepository
     name: helloapp
   git:
+    checkout:
+      ref:
+        branch: main
     commit:
       author:
         email: fluxcdbot@users.noreply.github.com
         name: fluxcdbot
       messageTemplate: '{{range .Updated.Images}}{{println .}}{{end}}'
+    push:
+      branch: main
   update:
     strategy: Setters
