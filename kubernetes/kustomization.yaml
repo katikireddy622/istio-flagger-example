@@ -7,6 +7,7 @@ resources:
 - deployment.yaml
 - service.yaml
 - hpa.yaml
+- imageupdate.yaml
 images:
   - name: docker.io/katikireddy1997/hello-app
     newName: docker.io/katikireddy1997/hello-app # {"$imagepolicy": "flux-system:helloapp:name"}
