@@ -10,5 +10,5 @@ resources:
 - imageupdate.yaml
 images:
   - name: docker.io/katikireddy1997/hello-app
-    newName: docker.io/katikireddy1997/hello-app # {"$imagepolicy": "flux-system:helloapp:name"}
-    newTag: 0.0.2-SNAPSHOT # {"$imagepolicy": "flux-system:helloapp:tag"}
+    newName: docker.io/katikireddy1997/hello-app # {"$imagepolicy": "helloapp:helloapp:name"}
+    newTag: 0.0.2-SNAPSHOT # {"$imagepolicy": "helloapp:helloapp:tag"}
