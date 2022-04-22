@@ -3,7 +3,7 @@ apiVersion: image.toolkit.fluxcd.io/v1beta1
 kind: ImageRepository
 metadata:
   name: helloapp
-  namespace: flux-system
+  namespace: helloapp
 spec:
   image: docker.io/katikireddy1997/hello-app
   interval: 1m0s
@@ -16,7 +16,7 @@ apiVersion: image.toolkit.fluxcd.io/v1beta1
 kind: ImagePolicy
 metadata:
   name: helloapp
-  namespace: flux-system
+  namespace: helloapp
 spec:
   imageRepositoryRef:
     name: helloapp
@@ -29,7 +29,7 @@ apiVersion: image.toolkit.fluxcd.io/v1beta1
 kind: ImageUpdateAutomation
 metadata:
   name: helloapp
-  namespace: flux-system
+  namespace: helloapp
 spec:
   interval: 1m0s
   sourceRef:
