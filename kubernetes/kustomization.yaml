@@ -1,17 +1,14 @@
-apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
+apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
-nameSuffix: dev
-metadata:
-  name: helloapp
-  namespace: helloapp
-spec:
-  interval: 30s
-  path: "./kubernetes"
-  prune: true
-  images:
+namespace: helloapp
+nameSuffix: -dev
+resources:
+- namespace-manifest.yaml
+- deployment.yaml
+- service.yaml
+- hpa.yaml
+- imageupdate.yaml
+images:
   - name: docker.io/katikireddy1997/hello-app
     newName: docker.io/katikireddy1997/hello-app # {"$imagepolicy": "helloapp:helloapp:name"}
     newTag: 0.0.2-SNAPSHOT # {"$imagepolicy": "helloapp:helloapp:tag"}
-  sourceRef:
-    kind: GitRepository
-    name: helloapp
