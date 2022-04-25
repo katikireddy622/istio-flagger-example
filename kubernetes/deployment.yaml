@@ -5,9 +5,6 @@ metadata:
   name: appdeploy
   labels:
     app: hello-app
-  annotations:
-    fluxcd.io/automated: "true"
-    fluxcd.io/tag.app: alphabetical:asc
 spec:
   selector:
     matchLabels:
